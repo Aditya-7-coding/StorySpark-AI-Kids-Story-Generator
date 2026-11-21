@@ -1,0 +1,6 @@
+{
+  "name": "StorySpark AI – Story Generator for Kids",
+  "description": "A magical, beginner-friendly children's story generator powered by Gemini AI that creates age-appropriate, moral-based stories in English, Hindi, and Marathi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
